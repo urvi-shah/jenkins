@@ -6,7 +6,7 @@ class HelloWorld
 
 public static void main(String [] args)
 {
-System.out.println("Hi! I am performing Git and GitHub Integration with Jenkins SCM ");
+System.out.println("I am performing Git/GitHub Integration with Jenkins SCM ");
 }
 
 }
